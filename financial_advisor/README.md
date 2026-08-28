@@ -1,2 +1,2 @@
-# Joburg Summit
+Aws Community Day , Accra, Ghana
 
