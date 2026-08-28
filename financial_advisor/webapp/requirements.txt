@@ -1,0 +1,2 @@
+flask>=3.0
+strands-agents>=1.50
