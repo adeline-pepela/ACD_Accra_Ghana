@@ -1,2 +1,2 @@
-Aws Community Day , Accra, Ghana
+## Aws Community Day , Accra, Ghana
 
